@@ -14,10 +14,6 @@ namespace codesofxmas
 
             foreach (var method in methods)
             {
-                if (!method.IsPublic)
-                {
-                    continue;
-                }
                 var prs = method.GetParameters().Select(x => GetNonDefaultVal(x.ParameterType)).ToArray();
                 method.Invoke(magiClass, prs);
             }
