@@ -18,13 +18,13 @@ The IAmLateProblem came out well... late, I didn't have soo much time to spend o
 
 A Flag was hidden in a jwt cookie you get when visiting cs-mas.xyz
 
-```css
+```html
 Set-Cookie: accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbGFnIjoiNGNkZmEwYWUtZjE0Zi00N2IwLWFiODEtNzY2MmUwYjdkMmQzIn0.Q0_fMQaUKPUJV9yDa_enK3yp4IPSCeDXffD4DrcZbGA; path=/
 ```
 
 Decoding from base64 or jwt decoder gives a flag
 
-```css
+```html
 jwt decoder
 {"flag": "4cdfa0ae-f14f-47b0-ab81-7662e0b7d2d3"}
 
@@ -50,7 +50,7 @@ if (obj.Data.Count > 1)
 
 This flag got printed after a short time
 
-```css
+```html
 {"flag":"b53f7327-fda7-490f-9b0c-a64c5c950142"}
 ```
 
