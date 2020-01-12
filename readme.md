@@ -97,9 +97,3 @@ http://192.168.0.201/flag.txt
 ---
 
 Also when i visited to pickup my 3rd place price, i got informed that if i had posted content of the Christmas tree you're greeted with on cs-mas.xyz i would've had all 6 flags :o
-
-
-
-
-
-
