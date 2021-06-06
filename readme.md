@@ -12,6 +12,12 @@ These are located in each their own .cs file.
 
 The IAmLateProblem came out well... late, I didn't have soo much time to spend on trying to solve it, and what i did unfortunately only worked locally.  
 
+Edit:
+
+- IAmLateProblem, possible solution added as of 2021
+
+Since not solving this problem back in 2019, i've been back trying to find a solution and i think i've got one. Thanks to playing Cities Skyline, i've found this cool library "`Harmony`".
+
 ---
 
 ## Flags
